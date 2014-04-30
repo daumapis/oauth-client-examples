@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+  <title>OAuth2 - Implicit Grant</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="js/oauth2.js"></script>
+  <script>
+  var CLIENT_ID = "1234567890";
+  var REDIRECT_URI = "http://172.16.99.99/oauth-client-examples/javascript/login.html"
+  var AUTHORIZE_URL = "https://apis.daum.net/oauth2/authorize";
+
+  function login() {
+    var token = authorize();
+    if (token == null) {
+      location.href = AUTHORIZE_URL + "?client_id=" + CLIENT_ID + "&redirect_uri=" + REDIRECT_URI + "&response_type=token";
+    }
+  }
+  function getMe(callback) {
+    var accessToken = getCookie("accessToken");
+    $.getJSON("https://apis.daum.net/user/v1/show.json?callback=?", {access_token: accessToken})
+    .done(function(user) {
+      callback(user);
+    });
+  }
+  window.onload = function() {
+    var token = authorize();
+    if(token) {
+      $('#token').text(token);
+      getMe(function(user) {
+        $("#loginStatus").append($("<img></img>").attr("src", user.result.imagePath));
+        $("#loginStatus").append($("<span></span>").text(user.result.nickname));
+        $("#loginStatus").append($('<span></span>').text("("+user.result.id+")"));
+        $("#loginStatus").append($("<span></span>").text("님이 로그인되었습니다."));
+      });
+    } else {
+      var btnLogin = $('<button></button>').text("Daum 아이디로 로그인");
+      btnLogin.click(login);
+      $('body').append(btnLogin);
+    }
+  }
+  
+  </script>
+</head>
+<body>
+AccessToken : <span id="token"></span><br/>
+<div id="loginStatus"></div>
+</body>
+</html>
