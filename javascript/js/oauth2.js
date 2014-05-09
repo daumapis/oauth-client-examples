@@ -35,15 +35,14 @@ function _postbodyToArray(postbody) {
 };
 
 function authorize() {
-  var accessToken = getCookie("accessToken");
+  // 쿠키에서 Access Token을 가져옴
   if(accessToken) {
-    return accessToken;
+    // 엑세스 토큰이 쿠키에 있으면 그대로 반환
   } else if(window.location.hash) {
-    var h = _postbodyToArray(window.location.hash.substring(1));
-    if(h["access_token"]) {
-      setCookie("accessToken", h["access_token"], parseInt(h["expires_in"]) * 1000);
-      return h["access_token"];
-    }
+    // fragment 가 있으면 access_token, expires_in 값 추출
+    // accessToken을 expires_in 기간 후 만료되도록 쿠키 저장하여 반환 
+    
+    // 뭔가 문제가 있으면 그냥 null 반환
     return null;
   }  else {
     return null;
