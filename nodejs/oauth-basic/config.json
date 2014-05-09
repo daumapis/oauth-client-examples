@@ -1,0 +1,5 @@
+{
+  "clientId" : "1234567890",
+  "clientSecret": "75fba1",
+  "oauthCallback": "http://172.16.99.99:3000/oauthCallback"
+}
