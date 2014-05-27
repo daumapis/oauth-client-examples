@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+<fullyQualifiedTypeName name="net.daum.oauth.OAuthController"/>
+<fullyQualifiedTypeName name="org.springframework.util.MultiValueMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.impl.protocol.giopmsgheaders.Message"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.view.InternalResourceView"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.view.AbstractView"/>
+<fullyQualifiedTypeName name="org.codehaus.jackson.annotate.JsonProperty"/>
+<fullyQualifiedTypeName name="java.net.CookieManager"/>
+</qualifiedTypeNameHistroy>

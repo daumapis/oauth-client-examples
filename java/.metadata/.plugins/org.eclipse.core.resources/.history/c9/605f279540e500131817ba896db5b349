@@ -1,0 +1,12 @@
+package net.daum.oauth.model;
+
+import org.codehaus.jackson.annotate.JsonProperty;
+
+
+public class AccessToken {
+	
+	@JsonProperty
+	String access_token;
+	String refreshToken;
+	int expiresIn;
+}

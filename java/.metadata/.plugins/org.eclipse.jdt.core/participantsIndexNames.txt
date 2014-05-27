@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+/Users/tadoli/project/github/oauth-client-examples/java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1309308325.index
+/oauth2-exam/src/main/java

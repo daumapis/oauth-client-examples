@@ -1,0 +1,7 @@
+INDEX VERSION 1.122+/Users/tadoli/project/github/oauth-client-examples/java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2937233645.index
+4144601258.index
+4038621153.index
+1309308325.index
+2648281544.index
+2648197003.index

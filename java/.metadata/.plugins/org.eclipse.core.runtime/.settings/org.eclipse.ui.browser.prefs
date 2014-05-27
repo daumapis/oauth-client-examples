@@ -1,0 +1,3 @@
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n<external location\="/Applications/Firefox.app/Contents/MacOS/firefox-bin" name\="Firefox"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/oauth2-exam/WEB-INF/classes/net/daum/oauth/OAuthController.java|*|http\://localhost\:8080/oauth2-exam/WEB-INF/classes/net/daum/oauth/HomeController.java|*|

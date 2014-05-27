@@ -1,0 +1,33 @@
+package net.daum.oauth;
+
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.CookieValue;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.view.AbstractView;
+import org.springframework.web.servlet.view.RedirectView;
+
+/**
+ * Handles requests for the application home page.
+ */
+@Controller
+public class HomeController {
+	
+	@RequestMapping(value = "/", method = RequestMethod.GET)
+	public AbstractView auth(HttpServletResponse response, @CookieValue(value="accessToken") String accessToken) {
+		
+		if(accessToken == null) {
+			response.sendRedirect("https://apis.daum.net/oauth2/authorize?client_id=1234567890&response_type=code&redirect_uri=http://localhost:8080/oauth2-exam/oauthCallback");
+		} else {
+			return new org.springframework.web.servlet.view.InternalResourceView("/home");
+		}	
+	}
+	
+	@RequestMapping(value = "/home", method = RequestMethod.GET)
+	public String home() {
+		return "home";
+	}
+	
+}

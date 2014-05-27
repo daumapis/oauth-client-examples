@@ -1,0 +1,52 @@
+package net.daum.oauth;
+
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.HashMap;
+import java.util.Map;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.client.RestTemplate;
+
+@Controller
+public class OAuthController {
+	
+	final String TOKEN_URL = "https://apis.daum.net/oauth2/token";
+	final String CLIENT_ID = "1234567890";
+	final String CLIENT_SECRET = "75fba1";
+	
+	@RequestMapping(value = "/oauthCallback", method = RequestMethod.GET)
+	public String home(Model model, 
+			@RequestParam(value = "code") String authCode ) {
+		
+		URI url = null;
+		try {
+			url = new URI(TOKEN_URL);
+		} catch (URISyntaxException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		Map<String, String> params = new HashMap<String, String>();
+		params.put("grant_type", "authorization_code");
+		params.put("code", authCode);
+		params.put("client_id", CLIENT_ID);
+		params.put("client_secret", CLIENT_SECRET);
+		params.put("redirect_uri", "http://localhost:8080/oauth2-exam/oauthCallback");
+		
+		RestTemplate restTemplate = new RestTemplate();
+		@SuppressWarnings("unchecked")
+		Map<String, String> accessToken = (Map<String, String>) restTemplate.postForObject(url, params, Map.class);
+
+		// 이 시점에 access token을 해당 서비스의 사용자 ID와 관계지어서 DB에 저장
+		// db.save(accessToken);
+		
+		model.addAttribute("accessToken", accessToken);
+		
+		return "oauthCallback";
+	}
+}

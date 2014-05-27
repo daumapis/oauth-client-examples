@@ -1,0 +1,7 @@
+package net.daum.oauth.model;
+
+public class AccessToken {
+	String accessToken;
+	String refreshToken;
+	int expiresIn;
+}

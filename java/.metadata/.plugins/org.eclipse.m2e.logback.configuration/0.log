@@ -1,0 +1,1341 @@
+2014-05-23 17:40:20,087 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.daum:oauth:1.0.0-BUILD-SNAPSHOT @ /Users/tadoli/project/github/oauth-client-examples/java/oauth2-exam/pom.xml.
+2014-05-23 17:40:21,740 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:40:21,748 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:40:21,756 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:40:21,757 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:40:22,541 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.daum:oauth:1.0.0-BUILD-SNAPSHOT @ /Users/tadoli/project/github/oauth-client-examples/java/oauth2-exam/pom.xml.
+2014-05-23 17:40:22,741 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.daum:oauth:1.0.0-BUILD-SNAPSHOT @ /Users/tadoli/project/github/oauth-client-examples/java/oauth2-exam/pom.xml.
+2014-05-23 17:40:27,616 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:40:27,624 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:40:27,626 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:40:27,627 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:41:40,577 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:41:40,580 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:41:40,582 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:41:40,582 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:51:21,202 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:51:21,203 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:51:21,206 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:51:21,207 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:51:21,208 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of oauth2-exam
+2014-05-23 17:51:21,209 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for oauth2-exam
+2014-05-23 17:51:21,246 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:52:07,151 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:52:07,152 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:52:07,154 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:52:07,154 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:53:29,185 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:53:29,187 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:53:29,188 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:53:29,189 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:53:50,011 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:53:50,012 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:53:50,013 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:53:50,013 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:54:07,581 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:54:07,583 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:54:07,585 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:54:07,585 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:54:18,607 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:54:18,608 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:54:18,609 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:54:18,610 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:54:53,648 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:54:53,649 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:54:53,650 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:54:53,650 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:55:45,899 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:55:45,901 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:55:45,902 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:55:45,902 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:57:32,766 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:57:32,768 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 17:57:32,769 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:57:32,770 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:58:05,667 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:58:05,670 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:58:05,671 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:58:05,671 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:58:18,027 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:58:18,028 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:58:18,029 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:58:18,029 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:58:33,536 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:58:33,536 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:58:33,537 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:58:33,538 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:58:39,956 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:58:39,956 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 17:58:39,959 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 17:58:39,959 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:00:52,586 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:00:52,587 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:00:52,589 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:00:52,589 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:01:01,352 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:01,352 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:01:01,354 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:01,354 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:01:30,008 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:30,009 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:01:30,010 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:30,010 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:01:35,654 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:35,655 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:01:35,656 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:35,657 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:01:42,584 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:42,585 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:01:42,586 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:42,586 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:01:44,068 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:44,069 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:01:44,070 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:44,070 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:01:52,747 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:52,748 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:01:52,749 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:52,749 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:01:57,176 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:57,177 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:01:57,178 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:01:57,178 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:05:54,482 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:05:54,483 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:05:54,485 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:05:54,485 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:08:35,576 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:08:35,578 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:08:35,579 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:08:35,579 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:08:43,346 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:08:43,347 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:08:43,348 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:08:43,348 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:11:43,827 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:11:43,829 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:11:43,830 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:11:43,830 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:11:53,129 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:11:53,130 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:11:53,131 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:11:53,132 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:12:25,603 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:12:25,604 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:12:25,605 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:12:25,605 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:13:53,798 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:13:53,799 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:13:53,800 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:13:53,801 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-23 18:16:42,040 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:16:42,041 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-23 18:16:42,042 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-23 18:16:42,042 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 10:09:49,760 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 10:09:49,775 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 10:09:49,786 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 10:09:49,788 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 11:41:17,970 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 11:41:17,983 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 11:41:17,985 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 11:41:17,985 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:00:19,674 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:00:19,681 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:00:19,688 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:00:19,688 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:00:20,837 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:00:20,839 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:00:20,840 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:00:20,841 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:00:32,509 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:00:32,513 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:00:32,515 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:00:32,515 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:11:36,270 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:11:36,272 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:11:36,273 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:11:36,273 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:13:56,072 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:13:56,074 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:13:56,075 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:13:56,076 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:14:38,613 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:14:38,614 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:14:38,615 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:14:38,615 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:14:45,475 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:14:45,476 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:14:45,478 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:14:45,478 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:15:01,050 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:15:01,051 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:15:01,054 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:15:01,055 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:15:20,893 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:15:20,894 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:15:20,895 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:15:20,895 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:15:28,340 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:15:28,341 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:15:28,342 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:15:28,343 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:15:48,671 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:15:48,672 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:15:48,673 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:15:48,673 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:17:00,634 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:00,636 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:17:00,637 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:00,637 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:17:01,666 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:01,667 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:17:01,668 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:01,668 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:17:17,787 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:17,788 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:17:17,789 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:17,789 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:17:24,728 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:24,729 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:17:24,730 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:24,730 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:17:26,762 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:26,763 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:17:26,766 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:26,766 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:17:47,936 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:47,937 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:17:47,939 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:17:47,939 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:18:04,197 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:18:04,198 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:18:04,199 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:18:04,200 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:19:11,741 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:19:11,742 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:19:11,744 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:19:11,744 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:19:20,355 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:19:20,356 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:19:20,357 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:19:20,358 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:20:56,514 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:20:56,515 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:20:56,516 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:20:56,517 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:20:59,541 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:20:59,542 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:20:59,543 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:20:59,543 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:21:02,334 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:21:02,335 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:21:02,336 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:21:02,336 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:23:11,050 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:23:11,051 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:23:11,053 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:23:11,053 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:23:33,911 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:23:33,912 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:23:33,913 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:23:33,913 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:23:37,966 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:23:37,967 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:23:37,968 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:23:37,968 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:23:44,830 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:23:44,831 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:23:44,833 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:23:44,833 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:26:36,972 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:26:36,977 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:26:36,978 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:26:36,979 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:27:19,089 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:27:19,090 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:27:19,091 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:27:19,091 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:31:44,199 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.daum:oauth:1.0.0-BUILD-SNAPSHOT @ /Users/tadoli/project/github/oauth-client-examples/java/oauth2-exam/pom.xml.
+2014-05-26 15:31:44,328 [Worker-30] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-26 15:31:44,871 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.9/jackson-mapper-asl-1.9.9.pom
+2014-05-26 15:31:44,875 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.9/jackson-mapper-asl-1.9.9.pom
+2014-05-26 15:31:45,053 [Worker-30] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-26 15:31:45,385 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.9/jackson-core-asl-1.9.9.pom
+2014-05-26 15:31:45,386 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.9/jackson-core-asl-1.9.9.pom
+2014-05-26 15:31:45,601 [Worker-30] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-26 15:31:45,936 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.9/jackson-mapper-asl-1.9.9.jar
+2014-05-26 15:31:45,943 [New I/O client worker #3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.9/jackson-core-asl-1.9.9.jar
+2014-05-26 15:31:47,197 [New I/O client worker #3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.9/jackson-core-asl-1.9.9.jar
+2014-05-26 15:31:49,171 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.9/jackson-mapper-asl-1.9.9.jar
+2014-05-26 15:31:50,113 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:31:50,114 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:31:50,115 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:31:50,115 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:31:50,116 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of oauth2-exam
+2014-05-26 15:31:50,117 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for oauth2-exam
+2014-05-26 15:31:50,123 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:31:50,381 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.daum:oauth:1.0.0-BUILD-SNAPSHOT @ /Users/tadoli/project/github/oauth-client-examples/java/oauth2-exam/pom.xml.
+2014-05-26 15:31:50,517 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:31:50,518 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:31:50,519 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:31:50,520 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:31:50,520 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of oauth2-exam
+2014-05-26 15:31:50,520 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for oauth2-exam
+2014-05-26 15:31:50,524 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:10,578 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:10,579 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:33:10,580 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:10,580 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:33:26,745 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:26,746 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:33:26,747 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:26,747 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:33:39,061 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:39,062 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:33:39,063 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:39,064 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:33:48,045 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:48,046 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:33:48,047 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:48,048 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:33:56,073 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:56,074 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:33:56,075 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:33:56,076 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:34:08,060 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:08,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:34:08,062 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:08,062 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:34:14,387 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:14,388 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:34:14,389 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:14,389 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:34:16,425 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:16,426 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:34:16,427 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:16,427 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:34:26,024 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:26,025 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:34:26,027 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:26,027 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:34:34,905 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:34,905 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:34:34,906 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:34:34,906 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:41:48,243 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:41:48,245 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:41:48,246 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:41:48,246 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 15:44:18,319 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:44:18,320 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 15:44:18,321 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 15:44:18,321 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 16:56:42,068 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:56:42,070 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 16:56:42,071 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:56:42,071 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 16:59:06,098 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:59:06,099 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 16:59:06,100 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:59:06,100 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 16:59:08,561 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:59:08,561 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 16:59:08,563 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:59:08,563 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 16:59:12,082 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:59:12,083 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 16:59:12,084 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:59:12,084 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 16:59:30,945 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:59:30,945 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 16:59:30,946 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 16:59:30,947 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:00:23,056 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:23,057 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:00:23,058 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:23,058 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:00:29,237 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:29,237 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:00:29,238 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:29,239 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:00:38,442 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:38,442 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:00:38,443 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:38,443 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:00:57,085 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:57,086 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:00:57,087 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:57,087 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:00:59,127 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:59,128 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:00:59,129 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:00:59,129 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:01:00,153 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:00,153 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:01:00,154 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:00,155 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:01:14,950 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:14,950 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:01:14,951 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:14,952 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:01:18,190 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:18,191 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:01:18,192 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:18,192 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:01:20,220 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:20,221 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:01:20,223 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:20,224 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:01:40,698 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:40,699 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:01:40,700 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:40,700 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:01:50,876 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:50,877 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:01:50,878 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:01:50,879 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:02:20,623 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:02:20,624 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:02:20,625 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:02:20,625 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:02:22,036 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:02:22,037 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:02:22,038 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:02:22,038 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:03:55,327 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:03:55,327 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:03:55,328 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:03:55,329 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:04:07,469 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:04:07,470 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:04:07,471 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:04:07,471 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:04:34,429 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:04:34,430 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:04:34,431 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:04:34,431 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:04:46,138 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:04:46,139 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:04:46,141 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:04:46,141 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:04:59,493 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:04:59,494 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:04:59,495 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:04:59,495 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:05:00,884 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:05:00,885 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:05:00,886 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:05:00,886 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:05:05,370 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:05:05,371 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:05:05,372 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:05:05,373 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:05:11,021 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:05:11,022 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:05:11,023 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:05:11,023 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:05:37,150 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:05:37,150 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:05:37,151 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:05:37,152 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:20,104 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:20,105 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:20,106 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:20,106 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:27,447 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:27,448 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:27,449 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:27,449 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:32,685 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:32,686 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:32,687 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:32,687 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:41,385 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:41,385 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:41,387 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:41,387 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:52,077 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:52,078 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:06:52,079 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:06:52,079 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:07:03,847 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:07:03,847 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:07:03,848 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:07:03,849 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:07:42,425 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:07:42,425 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:07:42,426 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:07:42,427 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:08:05,019 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:08:05,020 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:08:05,020 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:08:05,021 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:08:36,668 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:08:36,669 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:08:36,670 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:08:36,670 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:08:38,226 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:08:38,227 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:08:38,228 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:08:38,228 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:11:04,930 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:11:04,931 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:11:04,943 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:11:04,944 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:13:49,728 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:13:49,729 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:13:49,730 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:13:49,731 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:14:11,771 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:14:11,772 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:14:11,773 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:14:11,774 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:14:14,287 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:14:14,288 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:14:14,289 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:14:14,290 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:14:35,743 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:14:35,743 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:14:35,744 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:14:35,745 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:14:36,898 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:14:36,899 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:14:36,900 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:14:36,901 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:18:07,436 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:18:07,439 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:18:07,440 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:18:07,440 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:18:17,958 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:18:17,958 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:18:17,959 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:18:17,959 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:18:29,956 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:18:29,957 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:18:29,958 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:18:29,958 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:18:35,637 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:18:35,637 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:18:35,638 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:18:35,638 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:19:23,210 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:19:23,211 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:19:23,212 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:19:23,212 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:19:31,922 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:19:31,923 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:19:31,924 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:19:31,924 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:19:33,945 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:19:33,946 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:19:33,947 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:19:33,947 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:19:51,811 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:19:51,812 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:19:51,813 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:19:51,813 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:20:30,328 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:20:30,329 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:20:30,330 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:20:30,330 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:24:28,591 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:24:28,593 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:24:28,594 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:24:28,594 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:24:36,356 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:24:36,357 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:24:36,358 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:24:36,358 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:26:50,645 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:26:50,647 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:26:50,649 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:26:50,649 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:28:40,525 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:28:40,525 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:28:40,526 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:28:40,527 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:28:51,688 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:28:51,688 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:28:51,689 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:28:51,690 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:30:26,774 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:30:26,775 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:30:26,776 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:30:26,777 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-26 17:39:35,731 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:39:35,731 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-26 17:39:35,732 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-26 17:39:35,733 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:36:47,450 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:36:47,459 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:36:47,466 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:36:47,467 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:36:50,127 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:36:50,129 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:36:50,131 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:36:50,131 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:40:05,971 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:40:05,977 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:40:05,979 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:40:05,979 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:40:08,079 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:40:08,080 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:40:08,082 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:40:08,082 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:40:17,679 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:40:17,680 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:40:17,681 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:40:17,682 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:40:47,758 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:40:47,759 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:40:47,761 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:40:47,761 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:43:55,818 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:43:55,819 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:43:55,821 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:43:55,821 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:44:10,469 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:44:10,470 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:44:10,473 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:44:10,474 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:44:30,192 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:44:30,193 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:44:30,194 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:44:30,195 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:45:25,255 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:45:25,256 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:45:25,258 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:45:25,258 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:45:29,603 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:45:29,604 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:45:29,605 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:45:29,605 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:45:46,037 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:45:46,038 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:45:46,040 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:45:46,040 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:46:13,534 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:13,535 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:46:13,537 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:13,538 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:46:25,110 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:25,112 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:46:25,113 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:25,113 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:46:38,211 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:38,212 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:46:38,214 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:38,214 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:46:50,891 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:50,893 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:46:50,897 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:50,897 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:46:56,199 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:56,200 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:46:56,201 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:46:56,201 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:52:32,539 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:52:32,540 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:52:32,541 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:52:32,541 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:52:35,305 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:52:35,306 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:52:35,308 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:52:35,308 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:52:52,489 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:52:52,490 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:52:52,491 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:52:52,491 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:53:20,153 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:53:20,154 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:53:20,156 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:53:20,156 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:54:26,354 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:26,355 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:54:26,356 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:26,357 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:54:31,379 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:31,381 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:54:31,382 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:31,382 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:54:33,475 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:33,476 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:54:33,477 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:33,478 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:54:35,787 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:35,788 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:54:35,790 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:35,791 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:54:39,863 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:39,864 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:54:39,865 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:39,866 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:54:42,575 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:42,576 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:54:42,577 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:42,577 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:54:51,043 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:51,044 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:54:51,046 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:51,046 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:54:56,493 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:56,494 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:54:56,495 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:54:56,496 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:55:03,191 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:03,192 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:55:03,193 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:03,193 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:55:08,273 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:08,274 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:55:08,275 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:08,276 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:55:15,495 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:15,495 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:55:15,496 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:15,497 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:55:32,664 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:32,665 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:55:32,666 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:32,667 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:55:37,294 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:37,295 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:55:37,297 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:55:37,297 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:56:06,216 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:56:06,217 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:56:06,218 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:56:06,218 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:56:10,321 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:56:10,322 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:56:10,323 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:56:10,323 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 10:56:15,190 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:56:15,190 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 10:56:15,191 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 10:56:15,192 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:00:25,376 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:00:25,376 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:00:25,378 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:00:25,378 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:00:27,530 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:00:27,531 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:00:27,532 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:00:27,532 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:04:26,963 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:04:26,963 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:04:26,965 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:04:26,965 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:04:32,515 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:04:32,516 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:04:32,517 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:04:32,517 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:12:39,065 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:12:39,066 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:12:39,067 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:12:39,068 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:12:56,864 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:12:56,865 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:12:56,866 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:12:56,866 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:12:59,550 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:12:59,550 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:12:59,551 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:12:59,552 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:13:07,851 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:13:07,851 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:13:07,852 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:13:07,852 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:13:14,123 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:13:14,123 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:13:14,124 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:13:14,125 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:13:17,422 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:13:17,423 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:13:17,424 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:13:17,424 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:13:40,135 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:13:40,135 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:13:40,137 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:13:40,137 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:14:30,526 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:14:30,526 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:14:30,527 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:14:30,527 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:14:47,428 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:14:47,429 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:14:47,430 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:14:47,430 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:14:57,997 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:14:57,998 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:14:57,999 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:14:57,999 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:15:03,758 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:15:03,759 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:15:03,760 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:15:03,761 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:15:04,778 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:15:04,779 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:15:04,781 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:15:04,781 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:15:28,793 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:15:28,793 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:15:28,794 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:15:28,794 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:16:06,681 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:16:06,681 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:16:06,682 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:16:06,683 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:16:44,402 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:16:44,403 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:16:44,404 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:16:44,404 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:16:48,502 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:16:48,503 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:16:48,504 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:16:48,504 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:16:53,237 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:16:53,237 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:16:53,239 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:16:53,239 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:17:43,460 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:17:43,461 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:17:43,462 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:17:43,463 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:18:04,481 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:18:04,482 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:18:04,483 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:18:04,484 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:18:37,515 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:18:37,516 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:18:37,517 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:18:37,518 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:19:04,771 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:19:04,772 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:19:04,773 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:19:04,773 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:21:50,486 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:21:50,487 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:21:50,488 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:21:50,489 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:22:04,448 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:22:04,448 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:22:04,450 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:22:04,450 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:22:12,672 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:22:12,672 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:22:12,673 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:22:12,674 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:23:53,782 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:23:53,782 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:23:53,783 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:23:53,784 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:24:02,374 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:24:02,374 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:24:02,375 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:24:02,376 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:24:12,976 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:24:12,976 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:24:12,978 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:24:12,979 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:24:14,000 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:24:14,001 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:24:14,003 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:24:14,003 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:24:34,417 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:24:34,418 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:24:34,419 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:24:34,419 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:26:17,169 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:26:17,169 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:26:17,171 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:26:17,171 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:26:33,556 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:26:33,556 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:26:33,558 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:26:33,558 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:27:20,865 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:27:20,865 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:27:20,866 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:27:20,867 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:27:45,108 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:27:45,109 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:27:45,110 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:27:45,110 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:28:20,411 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:28:20,412 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:28:20,413 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:28:20,413 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:28:22,970 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:28:22,970 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:28:22,971 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:28:22,972 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:28:48,349 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:28:48,350 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:28:48,351 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:28:48,351 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:28:51,814 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:28:51,814 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:28:51,816 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:28:51,816 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:29:01,466 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:01,467 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:29:01,469 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:01,469 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:29:18,174 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:18,174 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:29:18,176 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:18,176 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:29:27,371 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:27,372 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:29:27,373 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:27,374 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:29:46,467 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:46,468 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:29:46,469 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:46,469 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:29:55,626 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:55,626 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:29:55,627 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:29:55,628 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:30:00,145 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:30:00,146 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:30:00,147 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:30:00,147 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:30:07,675 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:30:07,676 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:30:07,678 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:30:07,678 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:30:29,856 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:30:29,857 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:30:29,858 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:30:29,858 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:31:25,333 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:31:25,333 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:31:25,334 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:31:25,335 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:31:57,571 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:31:57,572 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:31:57,573 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:31:57,573 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:32:09,469 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:32:09,469 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:32:09,470 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:32:09,471 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:33:30,091 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:33:30,092 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:33:30,093 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:33:30,093 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:33:46,578 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:33:46,578 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:33:46,580 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:33:46,580 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:34:17,592 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:34:17,593 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:34:17,594 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:34:17,594 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:34:21,945 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:34:21,945 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:34:21,946 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:34:21,946 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:35:09,669 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:35:09,670 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:35:09,671 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:35:09,671 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:35:28,134 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:35:28,134 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:35:28,135 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:35:28,136 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:35:36,343 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:35:36,343 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:35:36,344 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:35:36,344 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:35:46,500 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:35:46,501 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:35:46,502 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:35:46,503 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:39:13,864 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:39:13,864 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:39:13,865 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:39:13,866 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:39:17,380 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:39:17,381 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:39:17,382 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:39:17,383 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:41:04,211 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:41:04,212 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:41:04,213 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:41:04,214 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 11:41:14,704 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:41:14,705 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 11:41:14,707 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 11:41:14,708 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 12:06:04,832 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 12:06:04,832 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 12:06:04,833 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 12:06:04,834 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:34:06,230 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:06,239 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:34:06,248 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:06,250 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:34:07,536 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:07,539 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:34:07,541 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:07,541 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:34:08,701 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:08,706 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:34:08,708 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:08,708 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:34:15,600 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:15,600 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:34:15,602 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:15,602 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:34:30,025 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:30,026 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:34:30,027 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:30,027 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:34:43,615 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:43,616 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:34:43,618 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:43,618 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:34:56,398 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:56,399 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:34:56,401 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:34:56,401 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:35:21,101 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:35:21,102 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:35:21,104 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:35:21,104 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:35:35,525 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:35:35,527 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:35:35,529 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:35:35,530 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:36:00,316 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:36:00,317 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:36:00,319 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:36:00,319 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:36:04,038 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:36:04,039 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:36:04,040 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:36:04,041 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:36:48,203 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:36:48,203 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:36:48,204 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:36:48,205 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:37:17,212 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:17,213 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:37:17,214 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:17,215 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:37:20,538 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:20,539 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:37:20,540 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:20,541 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:37:21,963 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:21,964 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:37:21,965 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:21,965 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:37:25,957 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:25,958 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:37:25,960 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:25,960 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:37:31,743 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:31,744 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:37:31,745 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:37:31,745 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:38:26,943 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:38:26,944 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:38:26,945 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:38:26,945 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:38:36,178 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:38:36,179 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:38:36,181 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:38:36,181 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:38:46,327 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:38:46,327 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:38:46,328 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:38:46,328 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:38:50,875 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:38:50,876 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:38:50,877 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:38:50,877 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:39:03,171 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:39:03,171 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:39:03,172 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:39:03,173 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:42:03,858 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:42:03,859 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:42:03,861 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:42:03,861 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:42:35,851 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:42:35,852 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:42:35,853 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:42:35,854 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:42:37,884 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:42:37,885 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:42:37,886 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:42:37,887 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:42:54,464 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:42:54,465 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:42:54,466 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:42:54,467 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:43:07,675 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:43:07,676 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:43:07,677 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:43:07,678 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:43:21,261 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:43:21,262 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:43:21,263 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:43:21,263 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:43:22,701 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:43:22,702 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:43:22,704 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:43:22,704 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:43:50,933 [Worker-19] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-27 14:43:51,476 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE-sources.jar
+2014-05-27 14:43:52,955 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE-sources.jar
+2014-05-27 14:43:53,215 [Worker-19] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:3.1.0.RELEASE
+2014-05-27 14:43:53,372 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:43:53,373 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:43:53,374 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:43:53,374 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:44:01,542 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:44:01,543 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:44:01,544 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:44:01,544 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:44:08,923 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:44:08,925 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:44:08,927 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:44:08,927 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:44:11,479 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:44:11,480 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:44:11,481 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:44:11,482 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:44:54,872 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:44:54,873 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:44:54,874 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:44:54,874 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:45:06,284 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:06,285 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:45:06,286 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:06,287 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:45:09,745 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:09,746 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:45:09,747 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:09,748 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:45:42,799 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:42,800 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:45:42,802 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:42,802 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:45:45,781 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:45,782 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:45:45,783 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:45,784 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:45:47,813 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:47,814 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:45:47,815 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:47,815 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:45:59,621 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:59,621 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:45:59,622 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:45:59,623 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:46:21,501 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:46:21,501 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:46:21,503 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:46:21,503 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:46:34,583 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:46:34,584 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:46:34,585 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:46:34,585 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:46:39,604 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:46:39,604 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:46:39,606 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:46:39,606 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:46:43,659 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:46:43,659 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:46:43,661 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:46:43,661 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:47:14,690 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:47:14,691 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:47:14,692 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:47:14,693 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:47:21,982 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:47:21,983 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:47:21,984 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:47:21,984 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:47:34,249 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:47:34,250 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:47:34,251 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:47:34,251 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:47:56,531 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:47:56,532 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:47:56,533 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:47:56,534 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:49:49,606 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:49:49,606 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:49:49,607 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:49:49,608 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:49:51,979 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:49:51,979 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:49:51,980 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:49:51,981 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:52:54,443 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:52:54,443 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:52:54,444 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:52:54,445 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:52:55,484 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:52:55,485 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:52:55,486 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:52:55,486 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:54:01,367 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:01,367 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:54:01,369 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:01,369 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:54:17,863 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:17,864 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:54:17,865 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:17,865 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:54:32,204 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:32,205 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:54:32,206 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:32,206 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:54:43,943 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:43,944 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:54:43,945 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:43,945 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:54:58,054 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:58,055 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:54:58,056 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:54:58,057 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:55:02,850 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:02,851 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:55:02,852 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:02,853 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:55:19,632 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:19,633 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:55:19,634 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:19,634 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:55:22,519 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:22,520 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:55:22,521 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:22,521 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:55:23,623 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:23,624 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:55:23,625 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:23,625 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:55:46,632 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:46,633 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:55:46,634 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:55:46,634 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 14:57:19,965 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:57:19,966 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 14:57:19,967 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 14:57:19,968 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:05:24,763 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:24,763 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:05:24,765 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:24,765 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:05:29,761 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:29,762 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:05:29,763 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:29,763 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:05:32,279 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:32,280 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:05:32,281 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:32,282 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:05:37,630 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:37,630 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:05:37,631 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:37,632 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:05:40,009 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:40,010 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:05:40,011 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:05:40,011 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:10:13,705 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:10:13,706 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:10:13,707 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:10:13,708 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:11:25,626 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:11:25,628 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:11:25,630 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:11:25,631 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:11:51,075 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:11:51,076 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:11:51,078 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:11:51,079 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:12:12,709 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:12,709 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:12:12,711 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:12,711 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:12:16,353 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:16,354 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:12:16,355 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:16,356 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:12:17,751 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:17,751 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:12:17,752 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:17,753 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:12:26,170 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:26,171 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:12:26,172 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:26,172 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:12:47,089 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:47,089 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:12:47,091 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:12:47,091 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:13:39,779 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:13:39,780 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:13:39,782 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:13:39,782 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:13:50,267 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:13:50,269 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:13:50,271 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:13:50,272 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:15:52,744 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:15:52,745 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:15:52,746 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:15:52,746 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:15:57,676 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:15:57,676 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:15:57,678 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:15:57,678 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:16:46,079 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:16:46,080 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:16:46,081 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:16:46,081 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:17:17,049 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:17:17,053 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:17:17,055 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:17:17,055 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:17:20,686 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:17:20,686 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-27 15:17:20,688 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:17:20,688 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:18:22,155 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:18:22,155 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:18:22,157 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:18:22,157 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:21:22,100 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:21:22,101 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:21:22,102 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:21:22,102 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:21:26,285 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:21:26,286 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:21:26,287 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:21:26,287 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:21:27,302 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:21:27,303 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 15:21:27,304 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 15:21:27,304 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 16:55:05,339 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 16:55:05,341 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 16:55:05,343 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 16:55:05,343 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 16:55:09,793 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 16:55:09,793 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 16:55:09,794 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 16:55:09,795 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 16:55:20,210 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 16:55:20,211 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-27 16:55:20,212 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (EUC_KR actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-27 16:55:20,213 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

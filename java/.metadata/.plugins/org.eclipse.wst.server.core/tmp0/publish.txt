@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Tue May 27 16:55:21 EIT 2014
+org.eclipse.jst.jee.server\:oauth2-exam=/Users/tadoli/springsource/vfabric-tc-server-developer-2.7.0.RELEASE/spring-insight-instance/wtpwebapps/oauth2-exam
